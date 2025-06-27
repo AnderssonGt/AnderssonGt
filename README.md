@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://laravel.com/img/logomark.min.svg" height="80" alt="Laravel logo"/>
   <h1>Hola, soy <strong>Andersson Lucas</strong> 👋</h1>
-  <p>Desarrollador Full‑stack con enfoque en el TALL Stack y arquitectura moderna</p>
+  <p>Desarrollador Full‑stack</p>
 </div>
 
 ---

@@ -10,6 +10,7 @@
 ## 🚀 Tech Stack Principal
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FilamentPHP-4E46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMEM1LjM4NSAwIDAgNS4zODUgMCAxMnM1LjM4NSAxMiAxMiAxMiAxMi01LjM4NSAxMi0xMi01LjM4NS0xMi0xMi0xMnpNMTIgMmMyLjI2IDAgNC4zMjUgMS4wMDcgNS43NSAyLjYwMUwxNC4zMjUgNS41Yy0uNjItLjMxMi0xLjMxMy0uNS0yLjA2My0uNS0yLjcwNyAwLTQuOTEzIDIuMjA3LTQuOTEzIDQuOTEzIDAgLjg2LjI0MyAxLjY2Ny42NjcgMi4zNS0yLjgzLS4zMTctNS0yLjkwMy01LTYuMDEzIDAtMy4zMTMgMi43MDctNiAzLTZ6bTAgMjBjLTIuMjYgMC00LjMyNS0xLjAwNy01Ljc1LTIuNjAxTDEwLjY3NSA4LjVsMy4zMjUgMy4zMjVjLjYyLjMxMiAxLjMxMy41IDIuMDYzLjUgMi43MDcgMCA0LjkxMy0yLjIwNyA0LjkxMy00LjkxMyAwLS44Ni0uMjQzLTEuNjY3LS42NjctMi4zNSAyLjgzLjMxNyA1IDIuOTAzIDUgNi4wMTMgMCAzLjMxMy0yLjcwNyA2LTYgNnoiLz48L3N2Zz4=&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Livewire-4E4E4E?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -32,11 +33,10 @@
 
 ## 🧠 Sobre mí
 
-- 🇬🇹 De Guatemala
+- De Guatemala
 - 💼 Full-stack Developer
-- 🧱 Apasionado por crear sistemas sólidos, escalables y con buen diseño
-- 🔧 Me encanta trabajar con **Docker**, **Laravel** y **Livewire**
 - 🎯 En constante aprendizaje: backend avanzado, arquitectura limpia y DevOps
+- 🧱 Apasionado por crear sistemas sólidos, escalables y con buen diseño
 
 ---
 

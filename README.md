@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Andersson Lucas (AnderssonGt)
 
-<!--
-**AnderssonGt/AnderssonGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑stack Software Developer** especializado en PHP | Laravel | Docker | Vue.js | Flutter  
+Ubicación: Guatemala 🇬🇹
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- Desarrollo aplicaciones modernas con **Laravel**, microservicios con **Docker** y apps móviles con **Flutter**
+- Trabajo con frontend y backend usando **Vue.js**, agregando interactividad a las UIs
+- Aprendo constantemente nuevas herramientas y metodologías
+
+---
+
+## 💼 Proyectos destacados
+
+### [Proyecto 1]
+*(Descripción breve del proyecto, tecnologías, objetivos, rol que tuviste)*
+
+### [Proyecto 2]
+*(Descripción breve...)*
+
+*(Reemplaza con tus repos específicos)*
+
+---
+
+## 🛠️ Tecnologías en uso
+
+- **PHP & Laravel**  
+- **Vue.js**  
+- **Docker**  
+- **Flutter**  
+- (Puedes agregar SQL, Git, Tailwind, etc.)
+
+---
+
+## 📊 GitHub Stats
+
+```md
+![AnderssonGt GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderssonGt&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonGt&layout=compact&theme=tokyonight)

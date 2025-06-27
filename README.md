@@ -5,8 +5,6 @@
   <p>Desarrollador Full‑stack</p>
 </div>
 
----
-
 ## 🚀 Tech Stack Principal
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>

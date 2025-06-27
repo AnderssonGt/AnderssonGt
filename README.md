@@ -1,42 +1,69 @@
-# 👋 Hola, soy Andersson Lucas (AnderssonGt)
-
-**Full‑stack Software Developer** especializado en PHP | Laravel | Docker | Vue.js | Flutter  
-Ubicación: Guatemala 🇬🇹
-
----
-
-## 🚀 Sobre mí
-
-- Desarrollo aplicaciones modernas con **Laravel**, microservicios con **Docker** y apps móviles con **Flutter**
-- Trabajo con frontend y backend usando **Vue.js**, agregando interactividad a las UIs
-- Aprendo constantemente nuevas herramientas y metodologías
+<!-- Banner principal -->
+<div align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" height="80" alt="Laravel logo"/>
+  <h1>Hola, soy <strong>Andersson Lucas</strong> 👋</h1>
+  <p>Desarrollador Full‑stack con enfoque en el TALL Stack y arquitectura moderna</p>
+</div>
 
 ---
 
-## 💼 Proyectos destacados
+## 🚀 Tech Stack Principal
 
-### [Proyecto 1]
-*(Descripción breve del proyecto, tecnologías, objetivos, rol que tuviste)*
+<p align="center">
+  <img src="https://tallstack.dev/assets/images/tallstack-logo.svg" height="60" alt="TALL Stack"/>
+</p>
 
-### [Proyecto 2]
-*(Descripción breve...)*
-
-*(Reemplaza con tus repos específicos)*
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Livewire-4E4E4E?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Tecnologías en uso
+## 🌱 También uso
 
-- **PHP & Laravel**  
-- **Vue.js**  
-- **Docker**  
-- **Flutter**  
-- (Puedes agregar SQL, Git, Tailwind, etc.)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-```md
-![AnderssonGt GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderssonGt&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonGt&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnderssonGt&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonGt&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+- 🇬🇹 De Guatemala
+- 💼 Full-stack Developer
+- 🧱 Apasionado por crear sistemas sólidos, escalables y con buen diseño
+- 🔧 Me encanta trabajar con **Docker**, **Laravel** y **Livewire**
+- 🎯 En constante aprendizaje: backend avanzado, arquitectura limpia y DevOps
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderGT)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ander._gt)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AnderssonGt)
+
+---
+
+### ⚡ Frase de batalla
+
+> _“Codea con pasión. Despliega con precisión. Vive como un T-Rex de los sistemas.”_ 🦖
+

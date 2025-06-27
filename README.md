@@ -8,11 +8,6 @@
 ---
 
 ## 🚀 Tech Stack Principal
-
-<p align="center">
-  <img src="https://tallstack.dev/assets/images/tallstack-logo.svg" height="60" alt="TALL Stack"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>

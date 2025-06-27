@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 ## 🌱 También uso
 
 <p align="center">
@@ -27,8 +25,6 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
----
-
 ## 🧠 Sobre mí
 
 - De Guatemala
@@ -36,15 +32,11 @@
 - 🎯 En constante aprendizaje: backend avanzado, arquitectura limpia y DevOps
 - 🧱 Apasionado por crear sistemas sólidos, escalables y con buen diseño
 
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderGT)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ander._gt)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AnderssonGt)
-
----
 
 ### ⚡ Frase de batalla
 

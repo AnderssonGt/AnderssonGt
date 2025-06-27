@@ -35,16 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnderssonGt&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonGt&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧠 Sobre mí
 
 - 🇬🇹 De Guatemala
@@ -65,5 +55,5 @@
 
 ### ⚡ Frase de batalla
 
-> _“Codea con pasión. Despliega con precisión. Vive como un T-Rex de los sistemas.”_ 🦖
+> _“Mi magia es nunca rendirme.”_
 

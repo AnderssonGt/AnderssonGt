@@ -1,44 +1,55 @@
-<!-- Main Banner -->
 <div align="center">
-  <img src="https://laravel.com/img/logomark.min.svg" height="80" alt="Laravel logo"/>
-  <h1>Hello, I'm <strong>Andersson Lucas</strong></h1>
-  <p>Full-stack Developer</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Andersson+Lucas+%F0%9F%91%8B;Full-Stack+Software+Engineer;ERP+%C2%B7+POS+%C2%B7+Financial+platforms" alt="typing banner" />
+
+<a href="https://www.linkedin.com/in/andergt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/50238964257"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:anderssonlucasgt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/AnderssonGt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FilamentPHP-4E46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMEM1LjM4NSAwIDAgNS4zODUgMCAxMnM1LjM4NSAxMiAxMiAxMiAxMi01LjM4NSAxMi0xMi01LjM4NS0xMi0xMi0xMnpNMTIgMmMyLjI2IDAgNC4zMjUgMS4wMDcgNS43NSAyLjYwMUwxNC4zMjUgNS41Yy0uNjItLjMxMi0xLjMxMy0uNS0yLjA2My0uNS0yLjcwNyAwLTQuOTEzIDIuMjA3LTQuOTEzIDQuOTEzIDAgLjg2LjI0MyAxLjY2Ny42NjcgMi4zNS0yLjgzLS4zMTctNS0yLjkwMy01LTYuMDEzIDAtMy4zMTMgMi43MDctNiAzLTZ6bTAgMjBjLTIuMjYgMC00LjMyNS0xLjAwNy01Ljc1LTIuNjAxTDEwLjY3NSA4LjVsMy4zMjUgMy4zMjVjLjYyLjMxMiAxLjMxMy41IDIuMDYzLjUgMi43MDcgMCA0LjkxMy0yLjIwNyA0LjkxMy00LjkxMyAwLS44Ni0uMjQzLTEuNjY3LS42NjctMi4zNSAyLjgzLjMxNyA1IDIuOTAzIDUgNi4wMTMgMCAzLjMxMy0yLjcwNyA2LTYgNnoiLz48L3N2Zz4=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Livewire-4E4E4E?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-## Additional Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+<br/>
 
 ## About Me
 
-- From Guatemala  
-- Full-stack Developer  
-- Constantly learning: advanced backend, clean architecture, and DevOps  
-- Passionate about building solid, scalable, and well-designed systems  
+Full-Stack Software Engineer from Guatemala with 3+ years of experience building enterprise
+systems end-to-end — ERP, POS, financial platforms, mobile apps and custom integrations.
 
-## Contact
+I work across backend architecture, APIs and modern interfaces, specializing in **PHP / Laravel**
+and complex integrations (banking APIs, PMS, devices), with frontend and mobile in
+**React, React Native and Flutter**. I've led multi-country projects and delivered tailored
+solutions for companies and individual clients, always focused on performance, clean
+architecture and real business impact.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderGT)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ander._gt)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AnderssonGt)
+<br/>
 
-### Motto
+## Tech Stack
 
-> _"My magic is never giving up."_
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,redis,prisma&theme=dark" alt="backend" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,astro,tailwind,ts,js&theme=dark" alt="frontend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite&theme=dark" alt="databases" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" alt="devops" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> _“My magic is never giving up.”_
+
+</div>
